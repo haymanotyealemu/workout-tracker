@@ -129,7 +129,7 @@ let workoutSeed = [
         type: "cardio",
         name: "Bench",
         duration: 30,
-        distance: 2
+        distance: 3
       }
     ]
   }
