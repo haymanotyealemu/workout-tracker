@@ -121,6 +121,20 @@ let workoutSeed = [
         sets: 4
       }
     ]
+<<<<<<< HEAD
+=======
+  // },
+  // {
+  //   day: new Date().setDate(new Date().getDate()-1),
+  //   exercises: [
+  //     {
+  //       type: "cardio",
+  //       name: "Bench",
+  //       duration: 30,
+  //       distance: 3
+  //     }
+  //   ]
+>>>>>>> 51797ca479161c92fdd683eed9f467871b0e26c1
   }
 ];
 
