@@ -9,12 +9,10 @@ The application is deployed on Heroku. You can run the application from the foll
 ## Usage
 * A user can view the last workout 
 ![image1](public/assets/Fitness-Tracker.png)
-
 * A user can create a workout
 ![site](public/assets/create-workout.gif)
 * A user can see the summary of all workouts from stats page.
-![site](public/assets/stat.gif)
-
+![site](public/assets/summary.gif)
 ## Test
 none
 
