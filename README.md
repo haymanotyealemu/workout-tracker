@@ -8,7 +8,7 @@ The application is deployed on Heroku. You can run the application from the foll
    * https://track-your-fitness.herokuapp.com/?id=5e3b1ea870e2390017f01261
 ## Usage
 * A user can view the last workout 
-![image1](https://drive.google.com/uc?export=view&id=1Xn_ib_MOXGW2SwJGfwsPdkvkgBCnOH8Z)
+![image1](public/assets/Fitness-Tracker.png)
 
 * A user can create a workout
 ![site](public/assets/create-workout.gif)
