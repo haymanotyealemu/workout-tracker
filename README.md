@@ -12,4 +12,5 @@ The application is deployed on Heroku. You can run the application from the foll
 
 * A user can create a workout
 ![site](public/assets/create-workout.gif)
+* A user can
 
